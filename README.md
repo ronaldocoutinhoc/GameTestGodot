@@ -4,7 +4,7 @@ This is a project I created to learn the Godot Engine. It is a simple game devel
 
 ## Game Description
 
-In this game, [briefly describe the game mechanics, objectives, and any key features]. For example:
+This game includes basic features. For example:
 
 - **Player Movement**: The player can move left, right, jump.
 - **Enemies**: There are enemies.
@@ -13,6 +13,8 @@ In this game, [briefly describe the game mechanics, objectives, and any key feat
 ## Getting Started
 
 To run the game, you'll need to have Godot Engine installed on your system. You can download it from [Godot Engine's official website](https://godotengine.org/download).
+
+Or you can simply run the Game Test Godot.exe in Windows system's
 
 ### Installation
 
